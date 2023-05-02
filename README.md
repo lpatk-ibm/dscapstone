@@ -1,1 +1,1 @@
-# dscapstone
+# Applied DS Capstone (Coursera)
